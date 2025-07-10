@@ -18,4 +18,4 @@ Ingrese su nombre: Carlos
 Pedido registrado: 2 de leche por un valor de $5,000
 
 ## Autor
-Oscar Montañez (tu nombre real si deseas)
+Oscar Montañez
